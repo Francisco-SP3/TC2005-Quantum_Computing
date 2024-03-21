@@ -1,0 +1,3 @@
+[submodule "prime-number-finder"]
+	path = prime-number-finder
+	url = https://github.com/christopher-pedraza/prime-number-finder.git
